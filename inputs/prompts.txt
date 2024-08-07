@@ -1,2 +1,3 @@
-- Transcreva o texto da imagem abaixo
-- Agora traduza para português
+1- Transcreva o texto da imagem abaixo
+2- Agora traduza para português
+3- Faça o mesmo para a segunda imagem abaixo
